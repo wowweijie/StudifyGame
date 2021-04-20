@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FPS/Scenes/LoginMenu.unity
+    guid: bc21c586c68ac194690fdf0dd988bce7
+  - enabled: 1
+    path: Assets/FPS/Scenes/IntroMenu.unity
+    guid: 56e3faabc5bb30f49a68bb8f1292f988
+  - enabled: 1
+    path: Assets/FPS/Scenes/WinScene.unity
+    guid: 037d06fbede2b4041a843d9ee6fe750c
+  - enabled: 1
+    path: Assets/FPS/Scenes/LoseScene.unity
+    guid: 72e5c65a45893714484002914e3fd521
+  - enabled: 1
+    path: Assets/FPS/Scenes/MainScene.unity
+    guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  - enabled: 1
+    path: Assets/FPS/Scenes/IntroMenu.unity
+    guid: 56e3faabc5bb30f49a68bb8f1292f988
+  - enabled: 1
+    path: Assets/FPS/Scenes/WinScene.unity
+    guid: 037d06fbede2b4041a843d9ee6fe750c
+  - enabled: 1
+    path: Assets/FPS/Scenes/LoseScene.unity
+    guid: 72e5c65a45893714484002914e3fd521
+  - enabled: 1
+    path: Assets/FPS/Scenes/MainScene.unity
+    guid: d794a2ef8ba31d847ad3c19d03e2ddb9
+  - enabled: 1
+    path: Assets/FPS/Scenes/SecondaryScene.unity
+    guid: c591a33f912bcf949bec27d4baee4ade
+  - enabled: 1
+    path: Assets/FPS/Scenes/Quiz.unity
+    guid: 0cbfabf613c148b489a254f22734ab27
+  - enabled: 1
+    path: Assets/FPS/Scenes/SocialMediaScene.unity
+    guid: e2b39b3188acf93439a1f4f4939cfcfe
+  - enabled: 1
+    path: Assets/FPS/Scenes/CreateMenu.unity
+    guid: 1c5be37e308fbf644800839ebe69d801
+  - enabled: 1
+    path: Assets/FPS/Scenes/CustomMenu.unity
+    guid: 00e111fe6092013438504f22b6d03067
+  - enabled: 1
+    path: Assets/FPS/Scenes/Leaderboard_Test.unity
+    guid: 63d031f6725d88e48a5a8d224256202c
+  - enabled: 1
+    path: Assets/FPS/Scenes/LoginMenu.unity
+    guid: bc21c586c68ac194690fdf0dd988bce7
+  - enabled: 1
+    path: Assets/FPS/Scenes/CreateMenu.unity
+    guid: 1c5be37e308fbf644800839ebe69d801
+  - enabled: 1
+    path: Assets/FPS/Scenes/CampaignMenu.unity
+    guid: 976751f4fb9f0a54a9d6e1270ec75197
+  - enabled: 1
+    path: Assets/FPS/Scenes/CampaignVideo.unity
+    guid: 5d6cdc001bf25094a959e425e235e619
+  - enabled: 1
+    path: Assets/FPS/Scenes/CharScene.unity
+    guid: 413afde97a1f44197838c92dc1451934
+  - enabled: 1
+    path: Assets/FPS/Scenes/EndCampaign.unity
+    guid: f9cf5b2583f6143b286a7dd335025e94
+  m_configObjects: {}
